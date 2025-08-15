@@ -1,4 +1,4 @@
-# 🔐 Multiple Authority Attribute Based Encryption (MA-ABE)
+# 🔐 Multiple Authority Attribute Based Encryption (MA-ABE) WIP/PROOF OF CONCEPT
 
 A proof-of-concept implementation of Multiple Authority Attribute Based Encryption for secure communications between untrusted parties through trusted third-party authorities.
 
