@@ -139,5 +139,3 @@ Developed as part of research into:
 This is research/educational code demonstrating cryptographic concepts. Do not use in production systems without significant additional development, security review, and testing.
 
 ---
-
-*Interested in the intersection of distributed systems, cryptography, and practical security? This project demonstrates real-world applications of advanced cryptographic research.*
